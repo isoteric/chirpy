@@ -1,7 +1,7 @@
 # chirpy
 > twitter bot that builds followers
 
-## Requirments
+## Requirements
 - [Python](https://www.python.org/downloads/) *(**Note:** This script was developed to be used with the latest version of Python)*
 - [Tweepy](http://pypi.python.org/pypi/tweepy)
 
